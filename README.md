@@ -1,5 +1,5 @@
 # MachineLearning_mini_prj
-KB IT's your life | 머신 러닝 미니 프로젝트
+KB IT's your life | 머신러닝 미니 프로젝트
 
 주제 : 배구 경기 결과 예측
 
