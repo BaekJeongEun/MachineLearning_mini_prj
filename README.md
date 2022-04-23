@@ -2,8 +2,11 @@
 KB IT's your life | 머신러닝 미니 프로젝트
 
 주제 : 배구 경기 결과 예측
+
 참여 인원 : 4명
+
 작업 기간 : 2022.04.19~2022.04.20
+
 
 ![KB_국민은행_1조_머신러닝_최종본-01](https://user-images.githubusercontent.com/53815335/164894806-be9a3a5d-a478-481e-b4b2-6574675a4280.png)
 ![KB_국민은행_1조_머신러닝_최종본-02](https://user-images.githubusercontent.com/53815335/164894811-bb09da44-1268-4dc2-a4aa-c79b1676fcc1.png)
